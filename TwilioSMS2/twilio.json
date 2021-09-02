@@ -1,7 +1,7 @@
 {
   "Twilio": {
-    "AccountSid": "AC931065aa4d705223e8c757d08a2d1fc1",
-    "AuthToken": "1c8c5caad65a98d066f8cdfad73bf3a2",
-    "VerificationSid": "VAf4ae2766bc858122e7ef0eb0bc5423fc"
+    "AccountSid": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "AuthToken": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "VerificationSid": "xxxxxxxxxxxxxxxxxxxxxxxxx"
   }
 }
